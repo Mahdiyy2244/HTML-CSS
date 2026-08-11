@@ -58,7 +58,7 @@ The architecture team is already exhausted.
 Clone the repository:
 
 ```bash
-git clone https://github.com/Mahdiyy2244/HTMLCSS.git
+git clone https://github.com/Mahdiyy2244/HTML-CSS.git
 ```
 
 Enter the project:
